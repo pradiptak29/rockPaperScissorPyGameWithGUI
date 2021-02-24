@@ -7,6 +7,7 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 # player info
 player_name = input("Please suggest a player name:-\n")
+
 # main window
 root = Tk()
 root.title("Rock Paper Scissor")
